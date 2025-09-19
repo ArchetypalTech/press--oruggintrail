@@ -8,31 +8,32 @@
 		url('/fonts/RobotoMono/RobotoMono-italic-variable.woff2') format('woff2');
 }
 
-@theme {
-	--font-primary: var(--font-primary);
-	--font-secondary: var(--font-secondary);
-}
-
 :root {
 	--font-primary: 'Roboto Mono';
 	--font-secondary: 'Inter';
 	--col-core: #14a57a;
 	--col-page: var(--col-white);
 	--col-home: white;
-	--col-accent: #320f9c;
+	--col-accent: #14a57a;
 	--col-secondary: #320f9c;
 	--col-primary: tomato;
 	--col-primary-light: color-mix(in srgb, var(--col-primary), #fff 75%);
 	--col-primary-lightest: color-mix(in srgb, var(--col-primary), #ffffff00 95%);
 	--col-primary-mid: color-mix(in srgb, var(--col-primary), #fff 50%);
 	--col-primary-dark: color-mix(in srgb, var(--col-primary), #005 60%);
-	--col-black: #111;
+	--col-black: #1c1b22;
 	--col-white: #fff;
 	--col-black-25: rgba(0, 0, 0, 0.25);
 	--col-black-50: rgba(0, 0, 0, 0.5);
 	--background-primary: var(--col-page);
 	--background-secondary: var(--col-primary-lightest);
 	--layout-nav-height: 3em;
+}
+
+@theme {
+	--font-primary: var(--font-primary);
+	--font-secondary: var(--font-secondary);
+	--color-black: var(--col-black);
 }
 
 html {

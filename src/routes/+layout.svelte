@@ -1,6 +1,6 @@
 <script lang="ts">
 	import '../app.css';
-	import favicon from '$lib/assets/favicon.svg';
+	import favicon from '$lib/assets/favicon.png';
 	import { Icon } from '@archetypaltech/ayiui';
 	import Inventory from '$lib/components/Inventory.svelte';
 	import Menu from '$lib/components/menu.svelte';
