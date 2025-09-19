@@ -1,0 +1,5 @@
+## Boilerplate:
+**Archetypal Tech** is an incubator and games lab born from over a decade of experience shipping games, developing IP, and co-developing interactive media. At the intersection of games, open source, and blockchain, the team experiments across multiple chains and frameworks to explore new ways creative communities can collaborate and expand. Their mission is to build infrastructure that empowers users, fuels UGC, and advances autonomous worlds and fully on-chain games.
+
+### More Information:
+More information on Archetypal Tech, our logo and relevant media are available here [archetypaltech.com](https://archetypaltech.com)

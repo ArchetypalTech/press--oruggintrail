@@ -1,0 +1,20 @@
+## Developer:
+Archetypal Tech  
+Based in Essex UK
+
+### Release date:
+September 23rd 2025, (Itch.io/on-chain)
+
+### Platforms:
+Web Browser (Mobile | Desktop)
+
+### Requirements:
+* Web Browser
+* Social Sign-In
+* Passkey
+
+### Website:
+[oruggintrail.com](https://oruggintrail.com/)
+
+### Regular Price:
+Free at launch
