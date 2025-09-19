@@ -7,8 +7,8 @@ _Presskit for The O'rrugin Trail_
 ## [press.theoruggintrail.com](https://press.theoruggintrail.com)
 
 ```
-ip: 66.241.124.71
-app-label: lander-proud-wind-3749
+ip: 66.241.124.168
+app-label: presskit-oruggintrail
 host: fly.io
 ```
 
