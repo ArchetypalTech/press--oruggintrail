@@ -43,6 +43,8 @@ This is a [Svelte](https://svelte.dev/docs) app.
 Svelte uses a file-based routing system. Find **Pages** via `src/routes/**`.
 Each Page will inherit from a `+layout` and be defined when `+page` is present. So another internal page will be created via `src/routes/example/+page.svelte`, and the site index will be the first `+page` found in `routes/`, resulting in `archetypaltech.com/example`
 
+> +Page.svx content accepts `markdown` any page route delcared with `page-path/+page.svx` allows for `HTML` | `markdown` syntax | `svelte` components 🚀 
+
 You can add `HTML` and set any inline `CSS` in any page. However, this app is using `Tailwind` for the most part for styling.
 
 If you have used any other FE Framework, this is going to be a very similar experience to what you are accustomed to.
