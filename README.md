@@ -2,7 +2,7 @@
 
 ![Archetypal](./archetypal-heading.jpg)
 
-_Presskit for The O'rrugin Trail_
+_Presskit for The O'ruggin Trail_
 
 ## [press.theoruggintrail.com](https://press.theoruggintrail.com)
 
