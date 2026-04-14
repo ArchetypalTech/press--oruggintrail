@@ -11,14 +11,14 @@
 </script>
 
 #### Promotion Art
-![]({OrugGreen})
-![]({OrugWagon})
-![]({OrugWheel})
-![]({OrugWagon2})
+![O'Ruggin Trail Promotion Art]({OrugGreen})
+![O'Ruggin Trail Promotion Art]({OrugWagon})
+![O'Ruggin Trail Promotion Art]({OrugWheel})
+![O'Ruggin Trail Promotion Art]({OrugWagon2})
 
 #### Screenshots
-![]({Screenshot0})
-![]({Screenshot1})
-![]({Screenshot2})
-![]({Screenshot3})
-![]({Screenshot4})
+![O'Ruggin Trail Screenshot 0]({Screenshot0})
+![O'Ruggin Trail Screenshot 1]({Screenshot1})
+![O'Ruggin Trail Screenshot 2]({Screenshot2})
+![O'Ruggin Trail Screenshot 3]({Screenshot3})
+![O'Ruggin Trail Screenshot 4]({Screenshot4})
