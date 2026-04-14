@@ -1,0 +1,5 @@
+<script>
+	import logoUrl from '../../icons/logo.svg';
+</script>
+
+![O'Ruggin Trail Logo]({logoUrl})
