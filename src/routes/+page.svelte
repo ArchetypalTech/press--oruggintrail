@@ -14,11 +14,17 @@
 </section>
 
 <style>
+	:global(:root) {
+		--background-page: var(--col-home);
+	}
+	.logo {
+		width: 15rem;
+		height: auto;
+	}
 	h1,
 	h2 {
 		font-size: 10vw;
 		line-height: 8vw;
-		margin: 0;
 	}
 	@media (max-width: 768px) {
 		.logo {
@@ -30,9 +36,4 @@
 			line-height: 8vh;
 		}
 	}
-	.logo {
-		width: 15rem;
-		height: auto;
-	}
-	
 </style>

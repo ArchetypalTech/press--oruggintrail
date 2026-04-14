@@ -158,8 +158,8 @@
 		padding: 0.5em;
 	}
 	.nav-link-home img {
-		width: 2rem;
-		height: 2rem;
+		width: 3rem;
+		height: 3rem;
 		display: block;
 	}
 </style>
