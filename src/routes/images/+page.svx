@@ -2,13 +2,23 @@
 	import OrugGreen from './files/ORUGlogo_green.png';
 	import OrugWagon from './files/ORUGlogo_wagon.png';
 	import OrugWheel from './files/ORUGlogo_wheel.png';
+    import OrugWagon2 from './files/ORUGwagon.png';
+    import Screenshot0 from './files/ORUG-it hit-letterbox-01.png';
     import Screenshot1 from './files/The ORugginTrail.png';
+    import Screenshot2 from './files/ORugginTrail2.png';
+    import Screenshot3 from './files/ORugginTrail3.png';
+    import Screenshot4 from './files/ORugginTrail4.png';
 </script>
 
 #### Promotion Art
 ![]({OrugGreen})
 ![]({OrugWagon})
 ![]({OrugWheel})
+![]({OrugWagon2})
 
 #### Screenshots
+![]({Screenshot0})
 ![]({Screenshot1})
+![]({Screenshot2})
+![]({Screenshot3})
+![]({Screenshot4})

@@ -2,13 +2,13 @@
 Designer, Writer
 
 #### Bernardo Serrano
-Smart Contract Programmer, Content Creation and Implementation
+Smart Contract Programmer, Front-end Developer, Content Creation and Implementation
 
 #### Rogerio Sodré
 Smart Contract Programmer
 
 #### Jean Nicolas
-Front End Developer
+Front-end Developer
 
 #### Jay Springett / Sarah Asberry
 Production Team 

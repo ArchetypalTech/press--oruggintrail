@@ -1,10 +1,20 @@
+<script>
+	import ArchetypalGif from './images/files/ArchetypalLogo-2024-White-JitterMosh-crop.gif';
+    import Screenshot0 from './images/files/ORugginTrail5.png';
+    import Screenshot1 from './images/files/ORugginTrail6.png';
+</script>
+
 A satirical interactive fiction game about survival, bureaucracy, and impossible choices. Step into the boots of a licensed Trail Guide and lead a ragged band of pilgrims, outlaws, and opportunists across a fractured wasteland toward the fortified city-state of Usants.
+![]({Screenshot0})
+
 ## History:
 **Archetypal Tech** is an incubator and games lab born from over a decade of experience shipping games, developing IP, and co-developing interactive media. At the intersection of games, open source, and blockchain, the team experiments across multiple chains and frameworks to explore new ways creative communities can collaborate and expand. Their mission is to build infrastructure that empowers users, fuels UGC, and advances autonomous worlds and fully on-chain games.
 
 After two years exploring the frontier of on-chain games, Archetypal Tech began prototyping a new kind of text-driven experience: what if you could create and deploy a playable world in a day, ready for players immediately? That idea became ORuggEd, the open-source engine and editor behind The O'Ruggin Trail. Built on blockchain infrastructure, ORuggEd enables authors and storytellers to publish small text worlds, monetise them, and even direct earnings to causes or communities—opening up text adventures to a new era of creativity and sustainability.
 
 The O'Ruggin Trail is the first of these worlds: a grimly satirical survival odyssey that draws inspiration from the Zork/Infocom era, Jason Rohrer's Sleep is Death, and Bay12's Dwarf Fortress. Combining blockchain persistence, shared state, and composability, it lets players build on each other's worlds and embraces on-chain limitations much like the early days of Commodore and Spectrum development. Positioned as both commercial game and art as interactive software, The O'Ruggin Trail embodies Archetypal's taste for the absurd and its long commitment to building tools for creative communities.
+
+![]({ArchetypalGif})
 
 
 ## Features:
@@ -19,3 +29,5 @@ The O'Ruggin Trail is the first of these worlds: a grimly satirical survival ody
 
 **Make your mark with the editor**: Alpha access to the O’Ruggin’ game editor gives players the chance to expand the Trail themselves. Create new encounters, write your own branching stories, and share them with others to grow the world of O’Ruggin far beyond Usants.
 **Old-school parser input**: Type your commands, just like in the classic text adventures of the 1980s. The parser keeps the experience tactile, flexible, and delightfully unforgiving.
+
+![]({Screenshot1})
