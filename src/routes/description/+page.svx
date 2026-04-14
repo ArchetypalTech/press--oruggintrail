@@ -1,7 +1,7 @@
 <script>
-	import ArchetypalGif from './images/files/ArchetypalLogo-2024-White-JitterMosh-crop.gif';
-    import Screenshot0 from './images/files/ORugginTrail5.png';
-    import Screenshot1 from './images/files/ORugginTrail6.png';
+	import ArchetypalGif from '../images/files/ArchetypalLogo-2024-White-JitterMosh-crop.gif';
+    import Screenshot0 from '../images/files/ORugginTrail5.png';
+    import Screenshot1 from '../images/files/ORugginTrail6.png';
 </script>
 
 A satirical interactive fiction game about survival, bureaucracy, and impossible choices. Step into the boots of a licensed Trail Guide and lead a ragged band of pilgrims, outlaws, and opportunists across a fractured wasteland toward the fortified city-state of Usants.

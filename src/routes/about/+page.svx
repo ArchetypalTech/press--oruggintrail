@@ -1,5 +1,5 @@
 <script>
-	import ArchetypalLogo from './images/files/ArchetypalLogo-2024-WhiteWiBG.png';
+	import ArchetypalLogo from '../images/files/ArchetypalLogo-2024-WhiteWiBG.png';
 </script>
 
 
