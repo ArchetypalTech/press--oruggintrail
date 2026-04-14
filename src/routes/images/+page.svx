@@ -1,3 +1,11 @@
-![](./ORUGlogo_green.png)
-![](./ORUGlogo_wagon.png)
-![](./ORUGlogo_wheel.png)
+<script>
+	import OrugGreen from './ORUGlogo_green.png';
+	import OrugWagon from './ORUGlogo_wagon.png';
+	import OrugWheel from './ORUGlogo_wheel.png';
+    import Screenshot1 fomr './The O'Ruggin Trail.jpeg.png';
+</script>
+
+![]({OrugGreen})
+![]({OrugWagon})
+![]({OrugWheel})
+![]({Screenshot1})
