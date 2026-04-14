@@ -152,4 +152,14 @@
 			}
 		}
 	}
+	.nav-link-home {
+		backdrop-filter: blur(2em);
+		border-radius: 50%;
+		padding: 0.5em;
+	}
+	.nav-link-home img {
+		width: 2rem;
+		height: 2rem;
+		display: block;
+	}
 </style>
