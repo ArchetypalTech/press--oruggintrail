@@ -1,2 +1,3 @@
-![](/ORUGlogo_green.png)
-![](/ORUGlogo_wagon.png)
+![](./ORUGlogo_green.png)
+![](./ORUGlogo_wagon.png)
+![](./ORUGlogo_wheel.png)
