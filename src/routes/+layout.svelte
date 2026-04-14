@@ -7,6 +7,7 @@
 	import Footer from '$lib/components/footer.svelte';
 	import { MediaQuery } from 'svelte/reactivity';
 	import { page } from '$app/state';
+	import logoUrl from '../../icons/logo.svg';
 	let { data, children } = $props();
 	let aside = $state(false);
 	let md = new MediaQuery('(min-width: 768px)');
@@ -17,9 +18,8 @@
 </svelte:head>
 
 <nav class="absolute top-0 flex w-full justify-center p-3">
-	<a class="nav-link-home" href="/" aria-label="home"
-		><Icon ctx="Archetypal" type="fill" size="2.5" /></a
-	>
+	<a class="nav-link-home" href="/" aria-label="home"><img src={logoUrl} alt="O'RUGGIN logo" /></a
+>
 </nav>
 
 <main class="relative w-full">

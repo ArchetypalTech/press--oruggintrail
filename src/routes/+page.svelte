@@ -2,11 +2,11 @@
 	import logoUrl from '../../icons/logo.svg';
 </script>
 
-<section class="flex min-h-[80vh] flex-col items-center justify-center px-4">
+<section class="flex flex-col justify-center md:flex-row items-center min-h-[80vh] px-4">
 	<div class="flex flex-col items-center">
 		<img src={logoUrl} alt="O'RUGGIN logo" class="logo" />
 	</div>
-	<div class="flex flex-col items-end justify-center gap-2">
+	<div class="flex flex-col">
 		<h1 class="font-bold">O'Ruggin Trail</h1>
 		<h2 class="bg-black text-right font-bold text-white">PRESSKIT</h2>
 		<em>Every Hero needs a Story</em>
