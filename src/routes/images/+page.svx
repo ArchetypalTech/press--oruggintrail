@@ -1,11 +1,14 @@
 <script>
-	import OrugGreen from './ORUGlogo_green.png';
-	import OrugWagon from './ORUGlogo_wagon.png';
-	import OrugWheel from './ORUGlogo_wheel.png';
-    import Screenshot1 fomr './The O'Ruggin Trail.jpeg.png';
+	import OrugGreen from './files/ORUGlogo_green.png';
+	import OrugWagon from './files/ORUGlogo_wagon.png';
+	import OrugWheel from './files/ORUGlogo_wheel.png';
+    import Screenshot1 fomr './files/The O'Ruggin Trail.jpeg.png';
 </script>
 
+#### Promotion Art
 ![]({OrugGreen})
 ![]({OrugWagon})
 ![]({OrugWheel})
+
+#### Screenshots
 ![]({Screenshot1})
