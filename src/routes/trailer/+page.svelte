@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { type Content, snippets } from '$lib/components/snippets.svelte';
 	const media: Content[] = [
-		{ id: '1cn3s5SgAvqPk17I1Y3lrcCbHaAUJ31A1', heading: 'ORuggin Trail Trailer' },
+		{ id: '1-uy64sVDx98-9-EzbJmEegz3ggrb2mmw', heading: 'ORuggin Trail Trailer' },
 		{ id: '1dr6scflI3tWOCqbRp6j0tM5ks-L8IMcs', heading: 'ORuggin Trail Walkthrough' },
 		{ id: '1A_D8UEAjTBM6Xssoa8ONTN9ytqvpAnqo', heading: 'ORuggin Trail Showcase' }
 	];
